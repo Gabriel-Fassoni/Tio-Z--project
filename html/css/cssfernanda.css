@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.logo {
+    display: flex;justify-content: space-between;
+    width: 100%;
+    padding: 0 10px;
+    
+
+}
+
+.input-group{
+    width: 500px;
+}
+
+.search-button{
+    
+    background-color: black;
+    color:white;
+    transition: all ease-in-out 0.15s;
+}
+.search-button:hover{
+    
+    background-color: gray ;
+    
+}

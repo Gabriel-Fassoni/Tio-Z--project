@@ -1,0 +1,4 @@
+nome_usuario=Gabriel
+email_usuario=Gabrielfassoni%40hotmail.com
+Data_Curso=2024-09-19
+cursos=JAVA
